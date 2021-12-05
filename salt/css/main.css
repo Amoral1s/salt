@@ -1069,6 +1069,10 @@ picture {
   margin: auto;
 }
 
+form input {
+  border-radius: 0 !important;
+}
+
 @media (max-width: 1245px) {
   .role-item p {
     font-size: 18px;
